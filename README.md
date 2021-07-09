@@ -26,3 +26,5 @@ The user can save their planning day, and save, once the user update the page th
 
 
 Mock-Up
+
+![Animation](https://user-images.githubusercontent.com/83906297/125066535-7259da80-e0f6-11eb-861c-75d84a155704.gif)
